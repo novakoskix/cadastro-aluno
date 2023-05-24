@@ -1,0 +1,31 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Renan Goes Santos",
+      "email": "renangoessantos9@gmail.com",
+      "serie": "3 Semestre",
+      "periodo": "Matutino",
+      "nota": "10",
+      "situacao": "Aprovado"
+    },
+    {
+      "id": 2,
+      "nome": "Rafael Fernandes Gomes",
+      "email": "rafaelgomes@gmail.com",
+      "serie": "3 Semestre",
+      "periodo": "Matutino",
+      "nota": "5",
+      "situacao": "Reprovado"
+    },
+    {
+      "id": 3,
+      "nome": "Matheus Rezende Borges",
+      "email": "matheusrborges",
+      "serie": "3 Semestre",
+      "periodo": "Matutino",
+      "nota": "7",
+      "situacao": "Aprovado"
+    }
+  ]
+}
